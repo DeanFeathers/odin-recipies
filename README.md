@@ -8,5 +8,5 @@
 
 # Skills used in creating this Project
 * Using funadamental knowledge of HTML tags
-* Linking my webpage using relativ links
+* Linking my webpage using relative links
 * Adding images to the webpage
