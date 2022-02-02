@@ -4,7 +4,8 @@
  This website consists of a main index page with links to a few recipes
 
 # Technology Used
- HTML
+* HTML
+* CSS
 
 # Skills used in creating this Project
 * Using funadamental knowledge of HTML tags
